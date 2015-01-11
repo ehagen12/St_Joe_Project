@@ -1,0 +1,500 @@
+   81  sudo nano /etc/hosts
+   82  sudo nano /etc/hosts
+   83  sudo nano /etc/hosts
+   84  ipconfig
+   85  sudo nano /etc/hosts
+   86  sudo nano /etc/hosts
+   87  sudo nano /etc/hosts
+   88  sudo nano /etc/hosts
+   89  sudo nano /etc/hosts
+   90  sudo nano /etc/hosts
+   91  sudo nano /etc/hosts
+   92  sudo nano /etc/hosts
+   93  sudo nano /etc/hosts
+   94  sudo nano /etc/hosts
+   95  sudo nano /etc/hosts
+   96  sudo nano /etc/hosts
+   97  sudo nano /etc/hosts
+   98  sudo nano /etc/hosts
+   99  sudo nano /etc/hosts
+  100  sudo nano /etc/hosts
+  101  sudo nano /etc/hosts
+  102  sudo nano /etc/hosts
+  103  sudo nano /etc/hosts
+  104  sudo nano /etc/hosts
+  105  sudo nano /etc/hosts
+  106  sudo nano /etc/hosts
+  107  sudo nano /etc/hosts
+  108  sudo nano /etc/hosts
+  109  sudo nano /etc/hosts
+  110  sudo nano /etc/hoss
+  111  sudo nano /etc/hosts
+  112  sudo nano /etc/hosts
+  113  sudo nano /etc/hosts
+  114  sudo nano /etc/hosts
+  115  sudo nano /etc/hosts
+  116  sudo nano /etc/hosts
+  117  sudo nano /etc/hosts
+  118  sudo nano /etc/hosts
+  119  sudo nano /etc/hosts
+  120  sudo nano /etc/hosts
+  121  sudo nano /etc/hosts
+  122  sudo nano /etc/hosts
+  123  sudo nano /etc/hosts
+  124  sudo nano /etc/hosts
+  125  sudo nano /etc/hosts
+  126  sudo nano /etc/hosts
+  127  sudo nano /etc/hosts
+  128  sudo nano /etc/hosts
+  129  sudo nano /etc/hosts
+  130  sudo nano /etc/hosts
+  131  sudo nano /etc/hosts
+  132  sudo nano /etc/hosts
+  133  sudo nano /etc/hosts
+  134  sudo nano /etc/hosts
+  135  sudo nano /etc/hosts
+  136  sudo nano /etc/hosts
+  137  sudo nano /etc/hosts
+  138  sudo nano /etc/hosts
+  139  sudo nano /etc/hosts
+  140  ipconfig
+  141  ifconfig -a
+  142  sudo nano /etc/hosts
+  143  sudo nano /etc/hosts
+  144  sudo nano /etc/hosts
+  145  sudo nano /etc/hosts
+  146  sudo nano /etc/hosts
+  147  sudo nano /etc/hosts
+  148  sudo nano /etc/hosts
+  149  sudo nano /private/ect/hosts
+  150  sudo nano /ect/hosts
+  151  sudo nano /etct/hosts
+  152  ipconfig
+  153  ipconfig
+  154  git
+  155  nano
+  156  git
+  157  whoami
+  158  a<-4
+  159  R
+  160  R
+  161  safari
+  162  safari.app
+  163  open_safari
+  164  open safari
+  165  open safari.app
+  166  seach safari
+  167  search
+  168  search for safari
+  169  whereami
+  170  pwd
+  171  getpwd
+  172  ls
+  173  r
+  174  ls
+  175  lf-F
+  176  lf -F
+  177  ls-F
+  178  ls -F
+  179  cd
+  180  cd desktop/
+  181  cd ~
+  182  cd
+  183  cd desktop/
+  184  ls -F
+  185  cd backup notes/
+  186  cd backupnotes/
+  187  ls -F /
+  188  ls-F                             /
+  189  ls -F              /
+  190  ls -F ~
+  191  echo ~
+  192  echo this is a test ~
+  193  echo desktop/
+  194  echo *.txt
+  195  ls *.txt
+  196  search *txt
+  197  s
+  198  se
+  199  find
+  200  find echo
+  201  find .txt
+  202  echo this        is a lot     of s p a    ces
+  203  echo help
+  204  sudo apt-get install cowsay
+  205  cd Desktop Items
+  206  cd Desktop_items
+  207  ls
+  208  cd desktop/
+  209  pwd
+  210  cd R\ Tutorial/
+  211  ls /
+  212  ls
+  213  cd~
+  214  cd ~
+  215  ls
+  216  cd Desktop
+  217  cd R\ Tutorial/
+  218  ls
+  219  pwd
+  220  cd /Users/Ed/Desktop/
+  221  pwd
+  222  ls
+  223  cd R\ Tutorial/
+  224  ls /F
+  225  ls
+  226  ls -F
+  227  cd ..
+  228  cd ~
+  229  ..
+  230  ls -F -a
+  231  cd ~
+  232  ls -F -a
+  233  ls -F
+  234  cd..
+  235  cd ..
+  236  cd .
+  237  cd Ed/
+  238  cd ..
+  239  ls -l
+  240  ls --help
+  241  cd ..
+  242  cd ..
+  243  cd 
+  244  cd 
+  245  pwd
+  246  ..
+  247  cd ..
+  248  pwd
+  249  cd ..
+  250  pwd
+  251  cd 
+  252  ls -F
+  253  cd /Desktop
+  254  cd Desktop
+  255  ls -F
+  256  mam ls
+  257  man ls
+  258  man ls
+  259  pwd
+  260  ls ..
+  261  cd
+  262  cd ~
+  263  whoami
+  264  ls -s
+  265  ls -h
+  266  ls 
+  267  ls -S
+  268  ls -Shl
+  269  ls -ShlF
+  270  someCMd
+  271  ls -Shl 
+  272  ls -s -h -l
+  273  ls -l
+  274  ls-h
+  275  ls -l -S
+  276  ls -al
+  277  cd
+  278  cd Desktop
+  279  pwd
+  280  mkdir Data
+  281  ls -F
+  282  ls -F data
+  283  ls -F R\ Tutorial/
+  284  data
+  285  cd data
+  286  nano 
+  287  nano draft.txt
+  288  ls -F
+  289  nano thing
+  290  ls
+  291  cat draft.txt 
+  292  mkdir textFile.txt
+  293  ls
+  294  ls -F
+  295  rmdir textFile.txt/
+  296  mkdir temp
+  297  ls -F
+  298  rm draft.txt
+  299  ls -F
+  300  rm -i think
+  301  rm -i thing
+  302  ls -F
+  303  rm temp
+  304  ls
+  305  nano draft.txt
+  306  ls
+  307  mv draft.txt temp/
+  308  ls -F
+  309  mkdir maintemp
+  310  ls -F
+  311  mv temp maintemp/
+  312  ls -F
+  313  mv maintemp/temp/draft.txt maintemp/temp/draft_1.txt
+  314  ls -F maintemp/temp/
+  315  rmdir maintemp
+  316  rm -r maintemp
+  317  ls -F
+  318  pwd
+  319  ls ..
+  320  cd
+  321  ls
+  322  cd Downloads/
+  323  ls
+  324  ~
+  325  cd ~
+  326  ls
+  327  cd Desktop
+  328  ls
+  329  mv clean data/
+  330  cd data
+  331  ls
+  332  ls
+  333  say os X
+  334  ls
+  335  Desktop
+  336  cd Desktop
+  337  cd data
+  338  cd clean
+  339  ls
+  340  mkdir ../../backup
+  341  cd ..
+  342  mv /clean ~/Desktop/backup
+  343  mv clean ~/Desktop/backup
+  344  cp --help
+  345  ls --help
+  346  ls-help
+  347  ls -help
+  348  ls --help
+  349  man cp
+  350  man cp
+  351  ~
+  352  cd ~
+  353  ls-R
+  354  ls -R
+  355  cd Desktop
+  356  cd data
+  357  cd clean
+  358  cd ..
+  359  cd backup
+  360  cd clean
+  361  ls
+  362  cat Zimbabwe.cc.txt 
+  363  wc Zimbabwe.cc.txt 
+  364  wc --help
+  365  wc --help
+  366  man wc
+  367  wc -l .
+  368  wc -l *.cc.txt
+  369  echo *
+  370  echo A*
+  371  wc -l *
+  372  cat Guinea
+  373  cat Guinea.txt
+  374  cat Guinea.cc.txt
+  375  wc -l A*
+  376  wc -l *.txt
+  377  cat country.cc.txt 
+  378  cat Zimbabwe.cc.txt 
+  379  cat Niger.cc.txt 
+  380  cat Nigeria.cc.txt 
+  381  cat Niger
+  382  cat Niger*
+  383  cat Niger* | sort
+  384  wc -l *.txt
+  385  wc -l | sort
+  386  wc -l *txt | sort
+  387  man sort
+  388  wc -l *.txt | sort -d
+  389  cat Guinea.cc.txt 
+  390  cat Guinea.cc.txt 
+  391  wc -l *.txt | sort
+  392  pwd
+  393  cat Guinea-Bissau.cc.txt Switzerland.cc.txt 
+  394  ls F* A* B*
+  395  ls (F,A,B)*
+  396  ls (F, A, B)*
+  397  ls {F,A,B}*
+  398  echo {F,A,B}*
+  399  ls {A:G}*
+  400  ls (A..G}*
+  401  echo {19}{5..9}{2,7} 200{2,7}
+  402  mkdir 19{5..9}{2,7} 200{2,7}
+  403  rmdir 19{5..9}{2,7} 200{2,7}
+  404  cat * | less
+  405  cat * | less
+  406  man less
+  407  mv ls
+  408  echo *cc.txt *txt
+  409  echo *cc.txt | sort  *txt
+  410  for filename in Afghanistan.cc.txt Zimbabwe.cc.txt Guinea.cc.txt ; for filename in Afghanistan.cc.txt Zimbabwe.cc.txt Guinea.cc.txt 
+  411  for filename in Afghanistan.cc.txt Zimbabwe.cc.txt Guinea.cc.txt ; for filename in Afghanistan.cc.txt Zimbabwe.cc.txt Guinea.cc.txt 
+  412  for filename in Afghanistan.cc.txt Zimbabwe.cc.txt Guinea.cc.txt; do    ls -l; for filename in Afghanistan.cc.txt Zimbabwe.cc.txt Guinea.cc.txt; do    ls -l
+  413  for filename in Afghanistan.cc.txt Zimbabwe.cc.txt Guinea.cc.txt; do    ls -l $filename; done
+  414  for filename in Afghanistan.cc.txt Zimbabwe.cc.txt Guinea.cc.txt; do    ls -l $filename; done
+  415  for filename in Afghanistan.cc.txt Zimbabwe.cc.txt Guinea.cc.txt; do    echo -l $filename; done
+  416  for filename in Afghanistan.cc.txt Zimbabwe.cc.txt Guinea.cc.txt; do    echo ls -l $filename; done
+  417  for filename in {A,B,Y,Z}*; do      echo ls -l $filename; done
+  418  for filename in {A..Z}*; do      echo ls -l $filename; done
+  419  pwd
+  420  cd Desktop
+  421  ls
+  422  cd backup
+  423  ls
+  424  ls clean
+  425  wc -l *.txt
+  426  cd clean
+  427  wc -l *.txt
+  428  wc -l *.txt | sort
+  429  cat China.cc.txt 
+  430  cat Niger
+  431  cat Niger.cc.txt 
+  432  for $duplicate in {A:Z}; do
+  433  sort *.txt | uniq -u
+  434  man uniq
+  435  cat Nigeria.cc.txt 
+  436  cat Niger.cc.txt 
+  437  sort Niger.cc.txt | uniq -u
+  438  wc -l .txt
+  439  wc -l *.txt
+  440  wc -l *.txt | sort
+  441  for each line l1 in f1
+  442      for each line l2 in f2
+  443          if l1 == l2;             break;         end if;     end for;     output l1 if no l2 == l1; endfor
+  444  for each line l1 in *.txt 
+  445  for each $line l1 in *.txt
+  446  grep -v -x -f *.txt *.txt
+  447  wc -l *.txt | sort
+  448  grep -v -x -f Niger.cc.txt Nigeria.cc.txt 
+  449  cat Niger.cc.txt 
+  450  sort Niger.cc.txt Nigeria.cc.txt | uniq -u
+  451  cat Niger.cc.txt 
+  452  cat Nigeria.cc.txt 
+  453  sort Niger.cc.txt Nigeria.cc.txt | uniq -u
+  454  grep -v -x -f Nigeria.cc.txt Niger.cc.txt 
+  455  cat Nigeria.
+  456  cat Niger.cc.txt 
+  457  comm -23 Niger.cc.txt Nigeria.cc.txt 
+  458  cat Niger.cc.txt 
+  459  *.txt *.txt | uniq -u
+  460  cd Desktop
+  461  cd backup
+  462  cd clean
+  463  *.txt *.txt | uniq -u
+  464  history
+  465  history
+  466  git
+  467  ls -l
+  468  ls -F
+  469  ls -a
+  470  cat .gitconfig
+  471  cd Desktop
+  472  makedir Sunday_Morning_StJProject
+  473  mkdir Sunday_Morning_StJProject
+  474  ls
+  475  cd ..
+  476  ls
+  477  cd Downloads/
+  478  ls
+  479  mv stJoe-project/ ../Desktop/Sunday_Morning_StJProject/
+  480  ..
+  481  cd ..
+  482  cd Desktop
+  483  ls
+  484  ls Sunday_Morning_StJProject/
+  485  cd Sunday_Morning_StJProject/
+  486  cd stJoe-project/
+  487  ls
+  488  cat cleanData.sh
+  489  cat combine.sh rename.sh setupProject.sh 
+  490  #lkasdjflkasjdf
+  491  hist
+  492  history 
+  493  ############################
+  494  ####THIS IS A TEST INSTRUCTION######
+  495  ############################
+  496  history
+  497  cat setupProject.sh 
+  498  pwd
+  499  ls
+  500  bash setupProject.sh 
+  501  ls code
+  502  ls -a
+  503  pwd
+  504  git init
+  505  ls -F
+  506  ls -Fa
+  507  git status
+  508  git add cleanData.sh combine.sh rename.sh setupProject.sh 
+  509  git status
+  510  nano .bash_profile
+  511  ls
+  512  nano .bash_profile
+  513  git add data/
+  514  git status
+  515  git rm --cached cleanData.sh 
+  516  git status
+  517  ls cleanData.sh 
+  518  git status
+  519  git add cleanData.sh 
+  520  git commit
+  521  git status
+  522  pwd
+  523  ls
+  524  ls -a
+  525  ls -Fa
+  526  git log
+  527  cat rename.sh
+  528  bash rename.sh 
+  529  bash rename.sh data/
+  530  bash rename.sh data/clean/
+  531  bash rename.sh data/clean/A*.cc.txt
+  532  nano rename.sh 
+  533  bash rename.sh data/clean/A*.cc.txt
+  534  ls data/clean/
+  535  bash rename.sh data/clean/*cc.txt
+  536  ls data/clean/
+  537  git status
+  538  git add data/clean/
+  539  git add rename.sh 
+  540  git add -v rename.sh 
+  541  gid sta
+  542  git st
+  543  git status
+  544  git diff --staged
+  545  cat rename.sh
+  546  git diff --staged rename.sh 
+  547  git commit
+  548  git log
+  549  pwd
+  550  ls clean
+  551  ls data/clean/
+  552  git add data/clean/*
+  553  git status
+  554  git commit
+  555  git log
+  556  history
+  557  git log
+  558  ls
+  559  cat combine.sh 
+  560  nano combine.sh 
+  561  nano combine.sh 
+  562  git status
+  563  git add -A
+  564  git status
+  565  git commit
+  566  git status
+  567  git log
+  568  git commit
+  569  git log
+  570  git commit
+  571  git log
+  572  git commit
+  573  git log
+  574  git lof
+  575  git status
+  576  git status
+  577  git diff --staged
+  578  git commit
+  579  cat combine.sh 
+  580  history > history.txt
