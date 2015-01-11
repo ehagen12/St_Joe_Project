@@ -1,0 +1,26 @@
+---
+title: "GapMinder_Analysis"
+author: "Ed Hage"
+date: "January 11, 2015"
+output: html_document
+---
+
+This is a report to analyze global health and GDP data
+
+```{r}
+library("ggplot2")
+gap.data.in <- read.delim("output//combined_gapMinder.tsv", header=TRUE, sep="\t")
+```
+
+First we'll do some summary of the data
+```{r}
+summary(gap.data.in)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
